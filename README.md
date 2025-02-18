@@ -4,8 +4,6 @@
 
 **NumericBench** is a comprehensive benchmark designed to evaluate the numerical reasoning capabilities of Large Language Models, addressing their limitations in tasks like arithmetic, number recognition, contextual retrieval, comparison, summarization, and logical reasoning. By incorporating diverse datasets ranging from synthetic number lists to real-world domains like stock trends and weather patterns, NumericBench systematically tests LLMs in both structured and noisy contexts. Experiments on models such as GPT-4o and DeepSeek-V3 reveal significant weaknesses, emphasizing the need for numerically-aware modeling to enhance LLMs' real-world applicability.
 
-Github Repo: https://github.com/TreeAI-Lab/NumericBench
-
 Arxiv Paper: https://arxiv.org/abs/2502.11075
 
 ### How to use it?
