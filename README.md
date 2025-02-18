@@ -1,6 +1,10 @@
 # Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models
 
 <p align="center">
+  <img src="./figure/NumericBench.png" width=1000>
+</p>
+
+<p align="center">
     📖 <a href="https://arxiv.org/abs/2502.11075" target="_blank">NumericBench Pper</a> • 🤗 <a href="https://huggingface.co/datasets/TreeAILab/NumericBench" target="_blank">NumericBench Dataset</a>
 </p>
 
