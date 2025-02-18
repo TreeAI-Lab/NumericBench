@@ -14,6 +14,14 @@
 
 ### Experiment Result
 
+<p align="center">
+  <img src="./figure/experiment-1.png" width=650>
+</p>
+
+<p align="center">
+  <img src="./figure/experiment-2.png" width=650>
+</p>
+
 
 ### Citation
 
