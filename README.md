@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    📖 <a href="https://arxiv.org/abs/2502.11075" target="_blank">NumericBench Pper</a> • 🤗 <a href="https://huggingface.co/datasets/TreeAILab/NumericBench" target="_blank">NumericBench Dataset</a>
+    📖 <a href="https://arxiv.org/abs/2502.11075" target="_blank">NumericBench Paper</a> • 🤗 <a href="https://huggingface.co/datasets/TreeAILab/NumericBench" target="_blank">NumericBench Dataset</a>
 </p>
 
 ### Introduction
