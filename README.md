@@ -1,4 +1,4 @@
-# Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models
+# Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models (ACL 2025)
 
 <p align="center">
   <img src="./figure/NumericBench.png" width=1000>
